@@ -6,3 +6,4 @@ En esta sección se encuentran los ejercicios correspondientes a la primera part
 * Variables y tipos de datos.
 * Entrada y salida de datos (`cin`, `cout`).
 * Operaciones aritméticas básicas.
+* Un poco de condicionales.
