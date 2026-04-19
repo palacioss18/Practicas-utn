@@ -20,6 +20,7 @@ En esta sección se encuentran los ejercicios correspondientes a la tercera guí
 * Verificación de mayoría de edad.
 * Identificación de meses por número.
 * Comparación entre dos números.
+* Verificar si un numero es negativo o positivo.
 * Determinar si es par e impar.
 * Sistema de calificacion.
 * Validacion de Rango.
