@@ -14,15 +14,10 @@ En esta sección se encuentran los ejercicios correspondientes a la cuarta guía
 
 ## Ejercicios incluidos:
 
-* Determinación de descuentos.
-* Evaluación de aprobado/reprobado.
-* Calculadora simple.
-* Clasificación de edades.
-* Verificación de mayoría de edad.
-* Identificación de meses por número.
-* Comparación entre dos números.
-* Verificar si un numero es negativo o positivo.
-* Determinar si es par e impar.
-* Sistema de calificacion.
-* Validacion de Rango.
+* Programa para comprobar si un numero es par o impar.
+* Contador de despegue.
+* Contar numeros positivos e negativos.
+* Suma acumulada en un while.
+* Suma hasta que el usuario ingrese 0.
+* Pedí un número N y sumá todos los números desde 1 hasta N.
 
