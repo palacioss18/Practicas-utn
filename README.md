@@ -6,6 +6,7 @@ Repositorio donde subo ejercicios y prácticas de la tecnicatura en programació
 - Variables
 - Condicionales
 - Bucles
+- Vectores
 - Funciones
 
 ## Lenguaje
