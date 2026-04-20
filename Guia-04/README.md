@@ -1,4 +1,4 @@
-# Guía 4: Estructuras de Decisión en C++
+# Guía 4: Estructuras de Decisión en C++ (parte 2)
 
 En esta sección se encuentran los ejercicios correspondientes a la cuarta guía, enfocados en el uso de estructuras condicionales y la toma de decisiones en programas simples.
 
